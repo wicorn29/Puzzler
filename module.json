@@ -1,0 +1,24 @@
+{
+  "name": "Sample Module Repository",
+  "description": "A repository of HTML applets for the 'Modules' platform.",
+  "author": "John Doe",
+  "version": "1.0.0",
+  "homepage": "https://github.com/johndoe/modules-repo",
+  "repo_url": "https://github.com/johndoe/modules-repo",
+  "applets": [
+    {
+      "name": "Applet 1",
+      "description": "A simple HTML applet that shows a greeting message.",
+      "path": "applets/applet1/index.html",
+      "version": "1.0.0",
+      "tags": ["greeting", "html"]
+    },
+    {
+      "name": "Applet 2",
+      "description": "Another applet that shows a random quote.",
+      "path": "applets/applet2/index.html",
+      "version": "1.0.0",
+      "tags": ["quotes", "html"]
+    }
+  ]
+}
